@@ -9,7 +9,7 @@ $dir = "C:\Users\admin\Downloads"
 #$filter="*.publishsettings"
 <#$latest = Get-ChildItem -Path $dir -Filter $filter | Sort-Object LastAccessTime -Descending | Select-Object -First 1
 $latest.name#> 
-#-------------DISPLAYING ALL THE CLOUD SERVICES IN CLASSIC AZURE-----------------
+#-------------DISPLAYING ALL THE CLOUD SERVICES IN AZURE-----------------
 
 Write-Output "`n All services are in variable x `n"
  $a = Get-AzureService 
