@@ -14,4 +14,5 @@
 
 
 References:
-Get started with Azure PowerShell cmdlets: https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs/
+
+1. Get started with Azure PowerShell cmdlets: https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs/
