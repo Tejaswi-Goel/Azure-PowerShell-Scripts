@@ -16,3 +16,4 @@
 References:
 
 1. Get started with Azure PowerShell cmdlets: https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs/
+2. Getting started with Azure IaaS :https://channel9.msdn.com/Events/Microsoft-Azure/AzureCon-2015/ACON217
